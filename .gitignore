@@ -131,6 +131,3 @@ dmypy.json
 ##blog-proj## 
 #postgres
 data/
-#django
-manage.py
-blog/
