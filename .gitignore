@@ -131,3 +131,5 @@ dmypy.json
 ##blog-proj## 
 #postgres
 data/
+#secrets
+.env
