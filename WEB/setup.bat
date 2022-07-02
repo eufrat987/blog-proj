@@ -1,0 +1,1 @@
+docker compose run next npx create-next-app app --typescript
